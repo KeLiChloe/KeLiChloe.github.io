@@ -17,7 +17,7 @@ Working in progress.
 </div>
 
 
-## CS
+## Computer Science
 
 <div class="publications">
   {% bibliography -f {{ site.scholar.bibliography }} %}

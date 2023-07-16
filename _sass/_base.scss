@@ -113,8 +113,10 @@ blockquote {
 }
 
 // Profile
-
 .profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   width: 100%;
 
   .address {
@@ -135,6 +137,31 @@ blockquote {
 
 .profile.float-left {
   margin-right: 1rem;
+}
+
+.social {
+  width: 100%; /* Take up full width of parent div */
+
+  .contact-icons {
+    font-size: 2.5rem;
+
+    a {
+      i::before {
+        color: var(--global-text-color);
+        transition-property: all 0.2s ease-in-out;
+      }
+
+      &:hover {
+        i::before {
+          color: var(--global-theme-color);
+        }
+      }
+    }
+  }
+
+  .contact-note {
+    font-size: 0.8rem;
+  }
 }
 
 @media (min-width: 576px) {
@@ -162,6 +189,8 @@ blockquote {
     }
   }
 }
+
+
 
 
 // Navbar customization
@@ -296,33 +325,6 @@ blockquote {
 
   &:hover {
     color: var(--global-hover-color);
-  }
-}
-
-// Social (bottom)
-
-.social {
-  text-align: center;
-
-  .contact-icons {
-    font-size: 4rem;
-
-    a {
-      i::before {
-        color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
-      }
-
-      &:hover {
-        i::before {
-          color: var(--global-theme-color);
-        }
-      }
-    }
-  }
-
-  .contact-note {
-    font-size: 0.8rem;
   }
 }
 
