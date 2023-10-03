@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: INSEAD PhD student in Management - Decision Science
+subtitle: INSEAD PhD Student- Decision Science
 
 profile:
   align: right
@@ -13,9 +13,9 @@ profile:
     <p>77300 Fontainebleau</p>
     <p>Île-de-France, FR</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
