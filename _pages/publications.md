@@ -1,23 +1,25 @@
 ---
 layout: page
-permalink: /publications/
-title: Publications
+permalink: /Research/
+title: Research
 description: 
 nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
-## Management
 
-Working in progress. 
+<!-- 
+## Journals
 
 <div class="publications">
-  {% bibliography -f {{ site.scholar.mgt }} %}
-</div>
+  {% bibliography -f {{ site.scholar.journal }} %}
+</div> -->
 
+## Work in Progress
+...
 
-## Computer Science
+## Published & Preprints (see [full list](https://scholar.google.com/citations?user=A_3_zUoAAAAJ))
 
 <div class="publications">
   {% bibliography -f {{ site.scholar.bibliography }} %}

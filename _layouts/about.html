@@ -66,8 +66,12 @@ layout: default
 
       <!-- Selected papers -->
       {% if page.selected_papers -%}
-        <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+        <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications(see <a href="https://scholar.google.com/citations?user=A_3_zUoAAAAJ">full</a>)</span></a></h2>
         {%- include selected_papers.html %}
       {%- endif %}
+      
+      <!-- Last Updated -->
+      <p style="color: #888;">Last Updated: {{ site.time | date: "%Y-%m-%d" }}</p>
+
     </article>
 </div>
