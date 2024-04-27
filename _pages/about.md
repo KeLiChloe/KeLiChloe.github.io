@@ -25,7 +25,9 @@ Before starting my PhD, I worked as a reinforcement learning researcher at Beiji
 
 My current research interests generally span two lines:
 
-- Reinforcement Learning and Decision-Making in Dynamic and Strategic Environments
+- Reinforcement Learning and Decision-Making
+
+- Information Design in Operations Research
 
 - Human-AI Collaboration
 
