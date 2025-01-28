@@ -9,4 +9,4 @@ horizontal: false
 ---
 
 
-- Alumni Interview Artical - CUHK Shenzhen [link](https://sds.cuhk.edu.cn/en/article/943)
+- Alumni Interview Artical - CUHK Shenzhen ([CN](https://sds.cuhk.edu.cn/article/943) version/[EN](https://sds.cuhk.edu.cn/en/article/943) version)
