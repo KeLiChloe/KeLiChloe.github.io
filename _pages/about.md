@@ -6,7 +6,7 @@ subtitle: INSEAD PhD Student- Decision Science
 
 profile:
   align: right
-  image: ke-profile.jpg
+  image: ke-profile-1.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Boulevard de Constance</p>
