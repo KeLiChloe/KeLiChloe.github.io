@@ -9,8 +9,8 @@ nav_order: 5
 
 
 **INSEAD** - Teaching Assistant  
+Foundations of AI for Managers (MBA Course P3) — *January 2025 - February 2025*  
 Probability and Statistics (PhD Course P2) — *October 2024 - December 2024*  
-FAIM - Foundations of AI for Managers (MBA Course P3) — *January 2025 - February 2025*  
 
 ---
 
