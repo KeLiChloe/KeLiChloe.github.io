@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, my name is Ke Li (Chloe). I am currently a PhD student in Decision Science at INSEAD France Campus, advised by two amazing professors [Spyros Zoumpoulis](https://www.insead.edu/faculty/spyros-zoumpoulis) and [Georgina Hall](https://sites.google.com/view/georgina-hall). 
+Hello, my name is Ke Li (Chloe). I am currently a PhD student in Decision Science at INSEAD Business School (France), advised by two amazing professors [Spyros Zoumpoulis](https://www.insead.edu/faculty/spyros-zoumpoulis) and [Georgina Hall](https://sites.google.com/view/georgina-hall). 
 
 My current research interests generally span two lines:
 
