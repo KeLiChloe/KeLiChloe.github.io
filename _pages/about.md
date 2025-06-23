@@ -6,7 +6,7 @@ subtitle: INSEAD PhD Student- Decision Science
 
 profile:
   align: right
-  image: ke-profile-1.jpg
+  image: ke-profile-2.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Boulevard de Constance</p>
@@ -21,13 +21,13 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, my name is Ke Li. I am currently a PhD student in Decision Science at INSEAD Business School (France), advised by two amazing professors [Spyros Zoumpoulis](https://www.insead.edu/faculty/spyros-zoumpoulis) and [Georgina Hall](https://sites.google.com/view/georgina-hall). 
 
-My current research interests generally span two lines:
+I pursue two distinct but complementary research areas at the intersection of management, artificial intelligence, and data science.
 
-- Personalization and Optimization in Data-Driven Decision Making
+- In one stream, I develop a Human-AI collaborative framework for theory building, integrating human, machine learning, and generative AI to co-create theories in management research. This project is rooted in meta-science and knowledge creation.
 
-- Human-AI Collaboration
+- In a second stream, I focus on the modeling methodologies for data-driven decision-making. My work investigates how optimization, estimation, and prediction can be designe to better serve managerial objectives. I currently study customer segmentation as an application context.
 
-The long-term goal of my research is to build a common framework for decision-making under different forms of uncertainty with strong guarantees on performance, robustness, and interpretability, striving for theoretically-elegant and practically-relevant research in the broad area of “Human + AI + Decision Science”.
+Together, these two streams reflect my commitment to building computationally rigorous, decision-relevant, and scientifically grounded tools for advancing management research, in the broad area of “Human + AI + Decision Science”.
 
 Before joining INSEAD, I obtained my bachelor's degree in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen. During my undergraduate studies, I was very fortunate to receive invaluable research guidance from [Baoxiang Wang](https://bxiangwang.github.io/) (CUHK-Shenzhen) and [Yang Li](http://yangli-feasibility.com/home/) (Tsinghua-Berkeley Shenzhen Institute).
 
