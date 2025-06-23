@@ -7,4 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-- I AM SHERLOCKED!
+- I am a part-time model in Paris. 
+- My favorite series: My Own Swordsman (武林外传)
+- I am SHERLOCKED!
