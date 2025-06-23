@@ -9,8 +9,8 @@ nav_order: 5
 
 
 **INSEAD** - Teaching Assistant  
-Foundations of AI for Managers (MBA Course) — *January 2025 - February 2025*  
-Probability and Statistics (PhD Course) — *October 2024 - December 2024*  
+Foundations of AI for Managers (MBA Course) - *2024, 2025*
+Probability and Statistics (PhD Course) — *2024*  
 
 ---
 
