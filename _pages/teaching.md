@@ -15,4 +15,4 @@ Probability and Statistics (PhD Course) — *2024*
 ---
 
 **The Chinese University of Hong Kong, Shenzhen** - Undergraduate Teaching Assistant  
-MAT1010 Calculus I — *Fall Term 2019-2020*  
+MAT1010 Calculus I — *2020*  
