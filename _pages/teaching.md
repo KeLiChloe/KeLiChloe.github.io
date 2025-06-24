@@ -9,7 +9,8 @@ nav_order: 5
 
 
 **INSEAD**   
-Foundations of AI for Managers (MBA Course) - *2024, 2025*   
+Foundations of AI for Managers (MBA Course) - *May/June, 2025*     
+Foundations of AI for Managers (MBA Course) - *Jan/Feb, 2025*     
 Probability and Statistics (PhD Course) — *2024*  
 
 ---
