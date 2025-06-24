@@ -450,8 +450,8 @@ In publications, the author entry for yourself is identified by string array `sc
 
 ```yaml
 scholar:
-  last_name: [Ke, Chloe, Chloé, Ke (Chloé), Ke (Chloe)]
-  first_name: [Li, L.]
+  last_name: [Li, L., Ke Li, Ke LI, KE LI]
+  first_name: [Ke, K, Ke Li, Ke LI, KE LI]
 ```
 
 If the entry matches one form of the last names and the first names, it will be underlined.
