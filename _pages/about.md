@@ -18,6 +18,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+*Data modeling at INSEAD. Fashion modeling in Paris ([portfolio](https://keli30.pixieset.com/keliportforlio/)).*
 
 Hello, my name is Ke Li. I am currently a PhD student in Decision Science at INSEAD Business School (France), advised by two amazing professors [Spyros Zoumpoulis](https://www.insead.edu/faculty/spyros-zoumpoulis) and [Georgina Hall](https://sites.google.com/view/georgina-hall). 
 
