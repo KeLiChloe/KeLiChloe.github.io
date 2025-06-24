@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: INSEAD PhD Student- Decision Science
+subtitle: INSEAD PhD Student - Decision Science
 
 profile:
   align: right
@@ -28,7 +28,7 @@ I pursue two distinct but complementary research areas at the intersection of ma
 
 - In a second stream, I focus on modeling methodologies for data-driven decision-making. My work investigates how optimization, estimation, and prediction can be designed to better serve managerial objectives. I currently study customer segmentation as an application context.
 
-Together, these two streams reflect my commitment to building computationally rigorous, decision-relevant, and scientifically grounded tools for advancing management research, in the broad area of “Human + AI + Decision Science”.
+Together, these two streams reflect my commitment to building computationally rigorous, decision-relevant, and scientifically-grounded tools in the broad area of “Human + AI + Decision Science”.
 
 Before joining INSEAD, I obtained my bachelor's degree in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen. During my undergraduate studies, I was very fortunate to receive invaluable research guidance from [Baoxiang Wang](https://bxiangwang.github.io/) and [Yang Li](http://yangli-feasibility.com/home/).
 
