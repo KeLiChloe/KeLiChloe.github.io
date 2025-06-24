@@ -8,10 +8,10 @@ profile:
   align: right
   image: ke-profile-2.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Boulevard de Constance</p>
-    <p>77300 Fontainebleau</p>
-    <p>Île-de-France, FR</p>
+  # address: >
+  #   <p>Boulevard de Constance</p>
+  #   <p>77300 Fontainebleau</p>
+  #   <p>Île-de-France, FR</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
