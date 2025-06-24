@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: INSEAD PhD Student - Decision Science
+subtitle: INSEAD PhD Student - Decision Sciences
 
 profile:
   align: right
