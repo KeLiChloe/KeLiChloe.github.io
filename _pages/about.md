@@ -24,7 +24,7 @@ Hello, my name is Ke Li. I am currently a PhD student in Decision Science at INS
 
 I pursue two distinct but complementary research areas at the intersection of management, artificial intelligence, and decision science.
 
-- In one stream, I focus on **decision-focused**, **outcome-aware analytics** by developing modeling methodologies for data-driven decision-making. My research examines how optimization, estimation, and prediction can be designed and evaluated to better align with managerial objectives. 
+- In one stream, I focus on **decision-focused**, **outcome-aware analytics** by developing algorithms for data-driven decision-making. My research examines how optimization, estimation, and prediction can be designed and evaluated to better align with managerial objectives. 
 
 - In a second stream, I develop a **Human-AI collaborative framework** for theory building, integrating human, machine learning, and generative AI to co-create theories in management research. This project is rooted in **meta-science** and knowledge creation.
 
