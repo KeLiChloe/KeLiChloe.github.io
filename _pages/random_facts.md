@@ -7,5 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-- My favorite series: Empresses in the Palace (后宫甄嬛传), and Wu lin wai zhuan (武林外传)
+- I am a fan of *A Song of Ice and Fire*   
+- My favorite Chinese series: Empresses in the Palace (后宫甄嬛传), and Wu lin wai zhuan (武林外传)
 - I am SHERLOCKED!
