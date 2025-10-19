@@ -24,13 +24,12 @@ Hello, my name is Ke Li. I am currently a PhD student in Decision Science at INS
 
 I pursue two distinct but complementary research areas at the intersection of management, artificial intelligence, and decision science.
 
-- In one stream, I focus on **decision-focused**, **outcome-aware analytics** by developing data-driven algorithms for decision-making. My research examines how optimization, estimation, and prediction can be designed and evaluated to better align with managerial objectives. 
+- In one stream, I focus on **decision-aware analytics** by developing data-driven algorithms for decision-making. My research examines how optimization, estimation, and prediction can be designed to better align with practical managerial objectives. 
 
-- In a second stream, I develop a **Human-AI collaborative framework** for theory building, integrating human, machine learning, and generative AI to co-create theories in management research. This project is rooted in **meta-science** and knowledge creation.
-
+- In a second stream, I study **Human-AI collaborative framework** for theory building, integrating human, machine learning, and generative AI to co-create theories, rooted in **meta-science** and knowledge creation.
 
 Together, these two streams reflect my commitment to building computationally rigorous, decision-relevant, and scientifically-grounded tools in the broad area of “Human + AI + Decision Science”.
 
 Before joining INSEAD, I obtained my bachelor's degree in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen. During my undergraduate studies, I was very fortunate to receive invaluable research guidance from [Baoxiang Wang](https://bxiangwang.github.io/) and [Yang Li](http://yangli-feasibility.com/home/).
 
-I once worked as a reinforcement learning researcher at Beijing Academy of Artificial Intelligence. I also did ML internships at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), [Byte Dance](https://www.bytedance.com/en/), and [Sense Time](https://www.sensetime.com/en) respectively during my undergraduate.
+I also worked as a full-time reinforcement learning researcher at Beijing Academy of Artificial Intelligence, and interned as a ML engineer at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), [Byte Dance](https://www.bytedance.com/en/), and [Sense Time](https://www.sensetime.com/en).
