@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, my name is Ke Li. I am currently a PhD candidate in Decision Sciences at INSEAD Business School, advised by [Spyros Zoumpoulis](https://www.insead.edu/faculty/spyros-zoumpoulis) and [Georgina Hall](https://sites.google.com/view/georgina-hall). 
+Hello, my name is Ke Li. I am currently a third-year PhD candidate in Decision Sciences at INSEAD Business School, advised by [Spyros Zoumpoulis](https://www.insead.edu/faculty/spyros-zoumpoulis) and [Georgina Hall](https://sites.google.com/view/georgina-hall). 
 
 I pursue two distinct but complementary research areas at the intersection of management, artificial intelligence, and decision science.
 
