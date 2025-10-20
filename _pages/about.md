@@ -25,7 +25,7 @@ I pursue two distinct but complementary research areas at the intersection of ma
 
 - In one stream, I focus on **prescriptive analytics** by developing data-driven algorithms for for **personalized decision-making**. My research explores how **optimization, estimation, and prediction** can be jointly designed to better align with practical managerial objectives in decision environments. 
 
-- In another stream, I study **Human–AI collaboration in the scientific process**, investigating how machine learning and generative AI can augment research workflows, particularly in **theory building**. This work is grounded in **meta-science** and contributes to our understanding of how knowledge is generated, validated, and refined through human–AI interaction.
+- In another stream, I study **Human–AI collaboration in the scientific process**, investigating how machine learning and generative AI can augment research workflows, particularly in **theory building**. This line of work sits at the intersection of machine learning, generative AI, and **meta-science**, seeking to understand how AI can support decisions, and how knowledge is generated and refined.
 
 Together, these two streams reflect my commitment to building computationally rigorous, decision-relevant, and scientifically-grounded tools in the broad area of “Human + AI + Decision Science”.
 
