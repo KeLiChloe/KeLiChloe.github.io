@@ -24,9 +24,9 @@ Hello, my name is Ke Li. I am currently a third-year PhD student in Decision Sci
 
 I pursue two distinct but complementary research areas at the intersection of management, artificial intelligence, and decision science.
 
-- In one stream, I focus on **prescriptive analytics** by developing data-driven algorithms for for **personalized decision-making**. My research explores how **optimization, estimation, and prediction** can be jointly designed to better align with practical managerial objectives in decision environments. 
+- In one stream, I focus on **prescriptive analytics** by developing data-driven machine learning algorithms that integrate **optimization, estimation, and prediction** to support robust decision-making under uncertainty.
 
-- In another stream, I study **Human–AI collaboration in the scientific process**, investigating how machine learning and generative AI can augment research workflows, particularly in **theory building**. This line of work sits at the intersection of machine learning, generative AI, and **meta-science**, seeking to understand how AI can support decisions, and how knowledge is generated and refined.
+- In another stream, I study **Human–AI collaboration in the scientific process** toward more systematic forms of hybrid intelligence. I investigate how machine learning and generative AI can augment research workflows, particularly in **hypothesis generation** and **theory building**. 
 
 Together, these two streams reflect my commitment to building computationally rigorous, decision-relevant, and scientifically-grounded tools in the broad area of “Human + AI + Decision Science”.
 
