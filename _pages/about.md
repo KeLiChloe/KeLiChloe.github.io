@@ -6,7 +6,7 @@ subtitle: PhD Student - Decision Sciences
 
 profile:
   align: right
-  image: ke-profile-3.jpg
+  image: ke-profile-3.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Boulevard de Constance</p>
