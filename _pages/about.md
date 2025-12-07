@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, my name is Ke Li. I am currently a third-year PhD student in Decision Sciences at INSEAD, advised by [Spyros Zoumpoulis](https://www.insead.edu/faculty/spyros-zoumpoulis). 
+Hello, my name is Ke Li (李可). I am currently a PhD student in Decision Sciences at INSEAD, advised by [Spyros Zoumpoulis](https://www.insead.edu/faculty/spyros-zoumpoulis). 
 
 I pursue two distinct but complementary research areas at the intersection of management, artificial intelligence, and decision science.
 
