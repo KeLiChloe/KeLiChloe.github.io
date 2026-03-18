@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /random_facts/
-title: Random Facts
+permalink: /beyond_academia/
+title: Beyond Academia
 description: 
 nav: true
 nav_order: 6
