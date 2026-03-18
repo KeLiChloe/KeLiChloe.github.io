@@ -4,7 +4,7 @@ permalink: /beyond_academia/
 title: Beyond Academia
 description: 
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 <!-- - I am a fan of *A Song of Ice and Fire*    -->
