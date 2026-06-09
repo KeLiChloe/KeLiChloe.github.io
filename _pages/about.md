@@ -21,13 +21,13 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, my name is Ke Li (李可). I am currently a PhD student in Decision Sciences at INSEAD, fortunate to be advised by [Spyros Zoumpoulis](https://www.insead.edu/faculty/spyros-zoumpoulis). 
 
-I pursue two distinct but complementary research areas at the intersection of management, artificial intelligence, and decision science.
+I pursue two distinct but complementary research areas at the intersection of AI, management, and decision sciences.
 
-- In the first stream, I focus on data-driven optimization and machine learning methods for robust decision-making under uncertainty.
+One stream of my research develops **decision-aware learning** methods for managerial decision-making. I study how firms can design learning systems that optimize not only predictive accuracy, but also the quality of the downstream decisions they support. My current work applies this perspective to customer segmentation for targeting. Instead of treating segmentation as a descriptive tool for finding statistically coherent groups, I frame it as a prescriptive decision problem: how should firms learn segments that maximize targeting outcomes? By combining machine learning, data-driven optimization, and statistical modeling, this work designs segmentation methods that are directly aligned with firms’ economic objectives.
 
-- In the second stream, I study human–AI collaboration in the scientific process, with a particular interest in how AI can augment researchers’ workflows, such as supporting theory building. 
+A second stream of my research studies **human–AI collaboration in the scientific process**. I am interested in how AI can augment researchers’ workflows by expanding the ways researchers search, synthesize, reason, and build theory. More broadly, this stream asks how AI can be designed to enhance human creativity and rigor in knowledge production.
 
-Together, these two streams reflect my commitment to building computationally rigorous, decision-relevant, and scientifically-grounded tools in the broad area of “Human + AI + Decision Science”.
+Together, these two streams reflect my broader research agenda: building computationally rigorous, decision-relevant, and scientifically grounded tools in the broad area of **Human + AI + Decision Science**.
 
 Before joining INSEAD, I obtained my Bachelor of Engineering in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). During my undergraduate studies, I was very lucky to receive invaluable research guidance from [Baoxiang Wang](https://bxiangwang.github.io/) and [Yang Li](http://yangli-feasibility.com/home/).
 
