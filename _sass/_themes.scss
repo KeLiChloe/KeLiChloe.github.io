@@ -5,7 +5,8 @@
 :root {
   --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #{$black-color};
+  --global-text-color: #3a3a3a;
+  --global-heading-color: #2c2c2c;
   --global-text-color-light: #{$grey-color};
   --global-theme-color: #{$purple-color};
   --global-hover-color: #{$purple-color};
@@ -16,6 +17,18 @@
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0,0,0,.1);
   --global-card-bg-color: #{$white-color};
+
+  // Type scale (edit sizes here only)
+  --fs-xs: 0.8125rem;   // 13px — footer
+  --fs-sm: 0.875rem;    // 14px — meta, address
+  --fs-base: 1rem;      // 16px — body, nav, lists
+  --fs-section: 1.125rem; // 18px — section headings (h2)
+  --fs-lg: 1.5rem;      // 24px — page title
+  --lh: 1.6;
+  --fw-normal: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --fw-bold: 700;
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
@@ -51,6 +64,7 @@ html[data-theme='dark'] {
   --global-bg-color: #{$grey-color-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
+  --global-heading-color: #{$white-color};
   --global-text-color-light: #{$grey-color-light};
   --global-theme-color: #{$cyan-color};
   --global-hover-color: #{$cyan-color};
@@ -89,5 +103,10 @@ html[data-theme='dark'] {
   }
   .repo-img-dark {
     display: block;
+  }
+
+  .research-stream .wp-title {
+    color: #{$red-color};
+    text-decoration-color: #{$red-color};
   }
 }

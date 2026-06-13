@@ -31,6 +31,11 @@ $grey-900:            #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
+// Typography — system Helvetica; sizes live in _themes.scss as CSS variables
+$font-family-body: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+$font-family-heading: $font-family-body;
+$font-family-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
 
 // Theme colors
 

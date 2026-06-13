@@ -6,19 +6,30 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  font-family: $font-family-body;
+  font-size: var(--fs-base);
+  font-weight: var(--fw-normal);
+  line-height: var(--lh);
+  letter-spacing: -0.01em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 
   h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 66px;
+    font-family: $font-family-heading;
+    font-size: var(--fs-base);
+    font-weight: var(--fw-semibold);
+    line-height: var(--lh);
+    color: var(--global-heading-color);
+    letter-spacing: -0.01em;
   }
 }
 
 body.fixed-top-nav {
-  // Add some padding for the nav-bar.
   padding-top: 56px;
 }
 
 body.sticky-bottom-footer {
-  // Remove padding below footer.
   padding-bottom: 0;
 }
 
@@ -26,25 +37,269 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
-// Profile
+.post-header {
+  margin-bottom: 2rem;
+
+  .post-title {
+    font-size: var(--fs-lg);
+    font-weight: var(--fw-semibold);
+    line-height: 1.25;
+    color: var(--global-heading-color);
+    margin-bottom: 0;
+  }
+
+  .post-description,
+  .desc {
+    font-size: var(--fs-sm);
+    color: var(--global-text-color-light);
+    margin-bottom: 0;
+  }
+}
+
+.page-content {
+  h2 {
+    width: fit-content;
+    max-width: 100%;
+    margin-top: 2.5rem;
+    margin-bottom: 0.875rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--global-divider-color);
+    font-size: var(--fs-section);
+  }
+
+  h2:first-of-type {
+    margin-top: 1.25rem;
+  }
+
+  h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 0.625rem;
+  }
+
+  p {
+    margin-bottom: 1rem;
+  }
+
+  a .link-icon {
+    font-size: 0.8em;
+    margin-left: 0.2em;
+  }
+
+  ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding-left: 1.25rem;
+
+    li {
+      margin-bottom: 0.625rem;
+      line-height: var(--lh);
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  strong,
+  b {
+    font-weight: var(--fw-bold);
+    color: var(--global-heading-color);
+  }
+
+  .education-list {
+    list-style: none;
+    padding-left: 0;
+
+    li {
+      margin-bottom: 1rem;
+
+      strong {
+        display: block;
+        margin-bottom: 0.15rem;
+      }
+
+      .education-note {
+        display: block;
+        margin-top: 0.35rem;
+        font-size: var(--fs-base);
+        color: var(--global-text-color);
+      }
+    }
+  }
+}
+
+.navbar,
+.navbar-brand,
+.nav-link {
+  font-family: $font-family-heading;
+  font-size: var(--fs-base);
+  font-weight: var(--fw-normal);
+}
+
+footer .container {
+  font-family: $font-family-heading;
+  font-size: var(--fs-xs);
+}
+
 .profile {
   img {
     width: 100%;
   }
 }
 
-// TODO: redefine content layout.
+.research-stream {
+  margin-bottom: 0.75rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 6px;
+  background-color: var(--global-card-bg-color);
+  font-size: var(--fs-base);
 
+  summary {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5rem;
+    padding: 0.85rem 1rem;
+    font-size: var(--fs-base);
+    font-weight: var(--fw-semibold);
+    color: var(--global-heading-color);
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
 
-/******************************************************************************
- * Publications
- ******************************************************************************/
+    &::-webkit-details-marker {
+      display: none;
+    }
 
-// TODO: redefine publications layout.
+    &::before {
+      content: "+";
+      flex-shrink: 0;
+      font-weight: var(--fw-normal);
+      color: var(--global-text-color-light);
+    }
+  }
 
+  &[open] summary::before {
+    content: "−";
+  }
 
-/*****************************************************************************
-* Projects
-*****************************************************************************/
+  .research-stream-body {
+    padding: 0 1rem 1rem;
 
-// TODO: redefine projects layout.
+    p {
+      margin-bottom: 0.875rem;
+    }
+
+    ul {
+      margin-bottom: 0;
+      padding-left: 0;
+      list-style: none;
+    }
+
+    .working-papers {
+      padding-left: 0;
+    }
+
+    .working-paper {
+      margin-bottom: 0;
+    }
+
+    .wp-title {
+      font-weight: var(--fw-bold);
+      color: #{$red-color-dark};
+      text-decoration: underline;
+      text-decoration-color: #{$red-color-dark};
+      text-underline-offset: 0.12em;
+      text-decoration-thickness: 1px;
+    }
+
+    .wp-label {
+      font-style: italic;
+      font-weight: var(--fw-normal);
+      color: var(--global-text-color-light);
+    }
+
+    .wp-credit {
+      font-style: normal;
+      font-weight: var(--fw-normal);
+      color: var(--global-text-color);
+    }
+
+    .wp-authors {
+      font-style: italic;
+      font-weight: var(--fw-normal);
+      color: var(--global-text-color);
+    }
+
+    li {
+      margin-bottom: 0.625rem;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    strong,
+    b {
+      font-weight: var(--fw-bold);
+      color: var(--global-heading-color);
+    }
+  }
+}
+
+.cv-page {
+  .cv-toolbar {
+    margin-bottom: 1.25rem;
+  }
+
+  .cv-download-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--global-theme-color);
+    border-radius: 4px;
+    color: var(--global-theme-color);
+    font-family: $font-family-heading;
+    font-size: var(--fs-sm);
+    font-weight: var(--fw-medium);
+    text-decoration: none;
+    transition: background-color 0.2s ease, color 0.2s ease;
+
+    &:hover {
+      background-color: var(--global-theme-color);
+      color: var(--global-hover-text-color);
+      text-decoration: none;
+    }
+  }
+
+  .cv-mobile-note {
+    display: none;
+    margin-bottom: 1rem;
+    font-size: var(--fs-sm);
+    color: var(--global-text-color-light);
+  }
+
+  .cv-viewer {
+    border: 1px solid var(--global-divider-color);
+    border-radius: 6px;
+    overflow: hidden;
+    background-color: var(--global-card-bg-color);
+
+    iframe {
+      display: block;
+      width: 100%;
+      height: min(80vh, 960px);
+      border: 0;
+    }
+  }
+
+  @media (max-width: 767.98px) {
+    .cv-viewer {
+      display: none;
+    }
+
+    .cv-mobile-note {
+      display: block;
+    }
+  }
+}

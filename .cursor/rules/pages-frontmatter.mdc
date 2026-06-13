@@ -1,0 +1,24 @@
+---
+description: Protect Jekyll _pages front matter from editor corruption
+globs: _pages/**
+alwaysApply: false
+---
+
+# `_pages/` front matter rules
+
+When editing files in `_pages/`, preserve the YAML block at the top exactly:
+
+```yaml
+---
+layout: ...
+title: ...
+...
+---
+```
+
+**Never:**
+- Turn `layout:` or `social:` into markdown headings (`## layout: page`)
+- Remove the closing `---` before the page body
+- Put blank lines between the opening `---` and YAML keys
+
+If the homepage shows a directory listing or Research disappears from nav, check front matter first.

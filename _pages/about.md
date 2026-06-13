@@ -2,33 +2,33 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: PhD Candidate - Decision Sciences
 
 profile:
   align: right
   image: Ke_LI_Headshot_2.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>Boulevard de Constance</p>
-    <p>77300 Fontainebleau</p>
-    <p>Île-de-France, FR</p>
+  image_circular: false
 
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true
 ---
 
-Hello, my name is Ke Li (李可). I am currently a PhD student in Decision Sciences at INSEAD, fortunate to be advised by [Spyros Zoumpoulis](https://www.insead.edu/faculty/spyros-zoumpoulis). 
+Welcome! I am Ke Li (李可), a PhD candidate in Decision Sciences at [INSEAD](https://www.insead.edu/), fortunate to be advised by [Spyros Zoumpoulis](https://www.insead.edu/faculty/spyros-zoumpoulis).
 
-I pursue two distinct but complementary research areas at the intersection of AI, management, and decision sciences.
+## Research
 
-One stream of my research develops **decision-aware learning** methods for managerial decision-making. I study how firms can design learning systems that optimize not only predictive accuracy, but also the quality of the downstream decisions they support. My current work applies this perspective to customer segmentation for targeting. Instead of treating segmentation as a descriptive exercise, we ask: how should firms learn decision-relevant customer segments that improve targeting outcomes? This work combines machine learning, data-driven optimization, and statistical modeling to align segmentation with firms’ economic objectives.
+My research sits at the intersection of AI, management, and decision sciences. I work on two complementary streams: 1) **optimization, machine learning,** and **decision-aware learning** for managerial decision-making, and 2) **human–AI collaboration** in the scientific process. 
 
-A second stream of my research studies **human–AI collaboration in the scientific process**. I am interested in how AI can augment researchers’ workflows by expanding the ways researchers search, synthesize, reason, and build theory. More broadly, this stream asks how AI can be designed to enhance human creativity and rigor in knowledge production.
+See my <a href="/research/">Research<i class="fas fa-arrow-right link-icon" aria-hidden="true"></i></a> page for details on current projects, working papers, and publications.
 
-Together, these two streams reflect my broader research agenda: building computationally rigorous, decision-relevant, and scientifically grounded tools in the broad area of **Human + AI + Decision Science**.
+## Education
 
-Before joining INSEAD, I obtained my Bachelor of Engineering in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). During my undergraduate studies, I was very lucky to receive invaluable research guidance from [Baoxiang Wang](https://bxiangwang.github.io/) and [Yang Li](http://yangli-feasibility.com/home/).
+<ul class="education-list">
+  <li><strong>INSEAD</strong>
+  PhD in Decision Sciences, 2023–present</li>
+  <li><strong>The Chinese University of Hong Kong, Shenzhen</strong>
+  B.Eng. (with Honors) in Computer Science and Engineering, 2018–2022
+  <span class="education-note">During my undergraduate studies, I was fortunate to receive research guidance from <a href="https://bxiangwang.github.io/">Baoxiang Wang</a> and <a href="http://yangli-feasibility.com/home/">Yang Li</a>.</span></li>
+</ul>
 
-I've also worked as a reinforcement learning researcher at Beijing Academy of Artificial Intelligence, and have interned as a ML engineer at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), [Byte Dance](https://www.bytedance.com/en/), and [Sense Time](https://www.sensetime.com/en) before starting my PhD journey.
+## Industry Experience
+
+Before INSEAD, I was a reinforcement learning researcher at the Beijing Academy of Artificial Intelligence. I also interned as an ML engineer at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), [ByteDance](https://www.bytedance.com/en/), and [SenseTime](https://www.sensetime.com/en/).

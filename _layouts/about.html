@@ -8,7 +8,9 @@ layout: default
       <h1 class="post-title">
         {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
       </h1>
+      {%- if page.subtitle -%}
       <p class="desc">{{ page.subtitle }}</p>
+      {%- endif -%}
     </header>
 
     <article>
@@ -33,7 +35,6 @@ layout: default
           {{ page.profile.address }}
         </div>
         {%- endif %}
-        <!-- Social -->
         {%- if page.social %}
           <div class="social">
             <div class="contact-icons">
@@ -48,30 +49,8 @@ layout: default
       </div>
       {%- endif %}
 
-      <div class="clearfix">
+      <div class="clearfix page-content">
         {{ content }}
       </div>
-
-      <!-- News -->
-      {% if page.news and site.announcements.enabled -%}
-        <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
-        {%- include news.html limit=true %}
-      {%- endif %}
-
-      <!-- Latest posts -->
-      {% if page.latest_posts -%}
-        <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
-        {%- include latest_posts.html %}
-      {%- endif %}
-
-      <!-- Selected papers -->
-      {% if page.selected_papers -%}
-        <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications(see <a href="https://scholar.google.com/citations?user=A_3_zUoAAAAJ">full</a>)</span></a></h2>
-        {%- include selected_papers.html %}
-      {%- endif %}
-      
-      <!-- Last Updated -->
-      <p style="color: #888;">Last Updated: {{ site.time | date: "%Y-%m-%d" }}</p>
-
     </article>
 </div>
