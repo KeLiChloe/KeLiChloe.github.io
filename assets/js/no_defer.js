@@ -1,1 +1,13 @@
-$(document).ready(function(){$("table").each(function(){"dark"==document.documentElement.getAttribute("data-theme")?$(this).addClass("table-dark"):$(this).removeClass("table-dark"),0==$(this).parents('[class*="news"]').length&&0==$(this).parents('[class*="card"]').length&&0==$(this).parents("code").length&&($(this).attr("data-toggle","table"),$(this).addClass("table-hover"))})});
+$(document).ready(function() {
+  $('table').each(function() {
+    if (document.documentElement.getAttribute("data-theme") == "dark") {
+      $(this).addClass('table-dark');
+    } else {
+      $(this).removeClass('table-dark');
+    }
+
+    if ($(this).parents('code').length == 0) {
+      $(this).addClass('table-hover');
+    }
+  });
+});
