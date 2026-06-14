@@ -14,7 +14,7 @@ social: true
 Welcome! I am Ke Li (李可), a PhD candidate in Decision Sciences at [INSEAD](https://www.insead.edu/), fortunate to be advised by [Spyros Zoumpoulis](https://www.insead.edu/faculty/spyros-zoumpoulis).
 
 ## Research
-
+ 
 My research sits at the intersection of AI, management, and decision sciences. I work on two complementary streams: 1) **optimization, machine learning,** and **decision-aware learning** for managerial decision-making, and 2) **human–AI collaboration** in the scientific process. 
 
 See my <a href="/research/">Research<i class="fas fa-arrow-right link-icon" aria-hidden="true"></i></a> page for details on current projects, working papers, and publications.
