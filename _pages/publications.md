@@ -23,7 +23,7 @@ My current research sits at the intersection of AI, management, and decision sci
 <li class="working-paper">
 <span class="wp-title">Decision-Aware Segmentation</span> <em class="wp-label">(Working Paper)</em><br>
 <span class="wp-credit">Joint work with</span> <em class="wp-authors">Sandeep Chandukala (SMU), Ernst Osinga (SMU), and Spyros Zoumpoulis (INSEAD)</em><br><br>
-This paper applies a decision-aware learning perspective to segmentation for targeting, aligning segmentation with the firm's downstream economic objectives. Standard segmentation methods optimize statistical cluster fit, not downstream targeting performance. Instead of treating customer segmentation as a descriptive tool, we ask: how should firms learn decision-relevant customer segments that improve targeting outcomes? We propose Decision-Aware Segmentation (DAS), which learns segments and selects their number to maximize out-of-sample targeting outcomes.
+This paper applies a decision-aware learning perspective to segmentation for targeting, aligning segmentation with the firm's downstream economic objectives. Standard segmentation methods optimize statistical cluster fit, not downstream targeting performance. Instead of treating customer segmentation as a descriptive tool, we ask: how should firms learn decision-relevant customer segments that improve targeting outcomes?
 </li>
 </ul>
 
