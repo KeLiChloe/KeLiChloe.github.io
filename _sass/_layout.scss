@@ -164,18 +164,18 @@ footer .container {
 
   .research-stream-label {
     flex-shrink: 0;
-    font-weight: var(--fw-normal);
+    font-weight: var(--fw-bold);
     color: var(--global-heading-color);
 
     &::after {
-      content: "·";
-      margin: 0 0.35em;
-      color: var(--global-divider-color);
+      content: ":";
+      margin-right: 0.35em;
+      color: var(--global-heading-color);
     }
   }
 
   .research-stream-title {
-    font-weight: var(--fw-semibold);
+    font-weight: var(--fw-bold);
     color: var(--global-heading-color);
   }
 
