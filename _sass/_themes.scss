@@ -105,8 +105,11 @@ html[data-theme='dark'] {
     display: block;
   }
 
-  .research-stream .wp-title {
+  .research-stream-papers summary .wp-title {
     color: #{$red-color};
-    text-decoration-color: #{$red-color};
+  }
+
+  .research-stream {
+    border-color: rgba(255, 255, 255, 0.28);
   }
 }
