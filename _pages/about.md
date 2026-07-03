@@ -17,6 +17,8 @@ Welcome! I am Ke Li (李可), a PhD candidate in Decision Sciences at [INSEAD](h
  
 My research sits at the intersection of AI, management, and decision sciences. I work on two complementary streams: 1) **optimization, machine learning,** and **decision-aware learning** for managerial decision-making, and 2) **human–AI collaboration** in the scientific process. 
 
+My research receives additional support through the OpenAI Researcher Access Program.
+
 See my <a href="/research/">Research<i class="fas fa-arrow-right link-icon" aria-hidden="true"></i></a> page for details on current projects, working papers, and publications.
 
 ## Education
