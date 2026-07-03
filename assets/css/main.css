@@ -101,9 +101,11 @@ html[data-theme=dark] .repo-img-light {
 html[data-theme=dark] .repo-img-dark {
   display: block;
 }
-html[data-theme=dark] .research-stream .wp-title {
+html[data-theme=dark] .research-stream-papers summary .wp-title {
   color: #FF3636;
-  text-decoration-color: #FF3636;
+}
+html[data-theme=dark] .research-stream {
+  border-color: rgba(255, 255, 255, 0.28);
 }
 
 /******************************************************************************
@@ -237,83 +239,102 @@ footer .container {
 
 .research-stream {
   margin-bottom: 0.75rem;
-  border: 1px solid var(--global-divider-color);
+  border: 1px solid rgba(0, 0, 0, 0.22);
   border-radius: 6px;
   background-color: var(--global-card-bg-color);
   font-size: var(--fs-base);
+  padding: 0.85rem 1rem 1rem;
 }
-.research-stream summary {
+.research-stream .research-stream-header {
   display: flex;
-  align-items: flex-start;
-  gap: 0.5rem;
-  padding: 0.85rem 1rem;
-  font-size: var(--fs-base);
+  flex-wrap: wrap;
+  align-items: baseline;
+  margin-bottom: 0.625rem;
+}
+.research-stream .research-stream-label {
+  flex-shrink: 0;
+  font-weight: var(--fw-normal);
+  color: var(--global-heading-color);
+}
+.research-stream .research-stream-label::after {
+  content: "·";
+  margin: 0 0.35em;
+  color: var(--global-divider-color);
+}
+.research-stream .research-stream-title {
   font-weight: var(--fw-semibold);
   color: var(--global-heading-color);
+}
+.research-stream .research-stream-intro {
+  margin-bottom: 0.875rem;
+}
+.research-stream .research-stream-papers {
+  border-top: 1px solid var(--global-divider-color);
+  padding-top: 0.875rem;
+}
+.research-stream .research-stream-papers summary {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.625rem;
   cursor: pointer;
   list-style: none;
   user-select: none;
 }
-.research-stream summary::-webkit-details-marker {
+.research-stream .research-stream-papers summary::-webkit-details-marker {
   display: none;
 }
-.research-stream summary::before {
-  content: "+";
+.research-stream .research-stream-papers summary::before {
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  content: "\f054";
   flex-shrink: 0;
+  width: 1.125rem;
+  font-size: 0.9rem;
+  line-height: 1;
+  text-align: center;
+  color: var(--global-theme-color);
+}
+.research-stream .research-stream-papers summary .wp-badge {
+  flex-shrink: 0;
+  font-size: var(--fs-sm);
   font-weight: var(--fw-normal);
   color: var(--global-text-color-light);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 3px;
+  padding: 0.1em 0.45em;
 }
-.research-stream[open] summary::before {
-  content: "−";
-}
-.research-stream .research-stream-body {
-  padding: 0 1rem 1rem;
-}
-.research-stream .research-stream-body p {
-  margin-bottom: 0.875rem;
-}
-.research-stream .research-stream-body ul {
-  margin-bottom: 0;
-  padding-left: 0;
-  list-style: none;
-}
-.research-stream .research-stream-body .working-papers {
-  padding-left: 0;
-}
-.research-stream .research-stream-body .working-paper {
-  margin-bottom: 0;
-}
-.research-stream .research-stream-body .wp-title {
+.research-stream .research-stream-papers summary .wp-title {
   font-weight: var(--fw-bold);
   color: #B71C1C;
-  text-decoration: underline;
-  text-decoration-color: #B71C1C;
-  text-underline-offset: 0.12em;
-  text-decoration-thickness: 1px;
 }
-.research-stream .research-stream-body .wp-label {
-  font-style: italic;
+.research-stream .research-stream-papers[open] summary::before {
+  content: "\f078";
+}
+.research-stream .research-stream-papers .working-paper {
+  margin-top: 0.625rem;
+}
+.research-stream .wp-authors {
+  margin-bottom: 0.5rem;
+  font-size: var(--fs-sm);
+  font-style: normal;
   font-weight: var(--fw-normal);
   color: var(--global-text-color-light);
 }
-.research-stream .research-stream-body .wp-credit {
-  font-style: normal;
-  font-weight: var(--fw-normal);
+.research-stream .wp-abstract {
+  margin-bottom: 0;
+  font-size: var(--fs-base);
+  line-height: var(--lh);
   color: var(--global-text-color);
 }
-.research-stream .research-stream-body .wp-authors {
-  font-style: italic;
-  font-weight: var(--fw-normal);
-  color: var(--global-text-color);
-}
-.research-stream .research-stream-body li {
+.research-stream .wp-abstract p {
   margin-bottom: 0.625rem;
 }
-.research-stream .research-stream-body li:last-child {
+.research-stream .wp-abstract p:last-child {
   margin-bottom: 0;
 }
-.research-stream .research-stream-body strong,
-.research-stream .research-stream-body b {
+.research-stream strong,
+.research-stream b {
   font-weight: var(--fw-bold);
   color: var(--global-heading-color);
 }
