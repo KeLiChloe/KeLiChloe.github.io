@@ -7,11 +7,11 @@ nav: true
 nav_order: 1
 ---
 
-<!-- _pages/publications.md -->
+<!-- _pages/research.md -->
 
 My current research sits at the intersection of AI, management, and decision sciences. I pursue two complementary streams, united by a broader agenda: building computationally rigorous, decision-relevant, and scientifically grounded tools in **Human + AI + Decision Science**.
 
-## Working Papers
+## Current Research
 
 <div class="research-stream">
 <div class="research-stream-header">
