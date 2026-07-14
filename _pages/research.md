@@ -38,9 +38,9 @@ My current research sits at the intersection of AI, management, and decision sci
 <p class="wp-authors">with Philip Parker (INSEAD), Phanish Puranam (INSEAD), Eric Luis Uhlmann (INSEAD), and Spyros Zoumpoulis (INSEAD)</p>
 <div class="wp-abstract">
 Scientific theory building requires researchers to anticipate empirical patterns, generate explanations for those patterns, and revise their theories in response to evidence. Recent advances in generative artificial intelligence raise the possibility that AI systems may contribute to the theory building process, yet little is known about how their scientific reasoning compares with that of human researchers.
-
+<p>
 We develop a preregistered framework for comparing human and artificial intelligence across multiple stages of theory building. We apply this framework to academic discourse on racial and gender inequality, a socially consequential and theoretically contested domain in which researchers may hold strong intellectual and moral commitments. Human experts first identify the constructs of interest, and machine-learning models detect empirical patterns in a corpus of approximately 150,000 scientific papers. Human researchers and state-of-the-art generative AI systems then independently forecast these patterns, propose causal explanations, and revise their theories after observing the machine-learning evidence.
-
+<p>
 The study examines how humans and generative AI differ in forecasting accuracy, theoretical complexity and diversity, responsiveness to evidence, and the quality of their explanations. More broadly, it provides a structured framework for investigating the distinct and potentially complementary roles of human judgment, machine learning, and generative AI in scientific knowledge production.
 </div>
 </div>
