@@ -54,7 +54,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=A_3_zUoAAAAJ) for
 
 2. **Combinatorial Bandits under Strategic Manipulations** · [Paper](https://arxiv.org/abs/2102.12722)  
    Jing Dong, Ke Li, Shuai Li, and Baoxiang Wang.  
-   *Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM)*, 2022.
+   *ACM International Conference on Web Search and Data Mining (WSDM)*, 2022.
 
 3. **EduChain: A Blockchain-Based Education Data Management System**  
    Yihan Liu, Ke Li, Zihao Huang, Bowen Li, Guiyan Wang, and Wei Cai.  
