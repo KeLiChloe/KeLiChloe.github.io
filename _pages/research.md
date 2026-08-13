@@ -10,8 +10,6 @@ nav_order: 1
 
 My current research sits at the intersection of AI, management, and decision sciences. I pursue two complementary streams, united by a broader agenda: building computationally rigorous, decision-relevant, and scientifically grounded tools in **Human + AI + Decision Science**.
 
-## Working Papers
-
 <p class="research-stream-note"><strong>Research Stream 1: Decision-Aware Learning.</strong> I study how firms can design learning systems that optimize not only predictive accuracy, but also the quality of the downstream decisions they support.</p>
 
 <div class="research-card has-slides">
