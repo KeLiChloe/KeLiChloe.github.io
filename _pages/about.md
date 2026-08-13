@@ -33,4 +33,4 @@ See my <a href="/research/">Research<i class="fas fa-arrow-right link-icon" aria
 
 ## Industry Experiences
 
-Before INSEAD, I was a reinforcement learning researcher at the Beijing Academy of Artificial Intelligence. I also interned as an ML engineer at Microsoft Research Asia, ByteDance, and Shanghai AI Laboratory.
+Before PhD, I was a reinforcement learning researcher at the Beijing Academy of Artificial Intelligence. I also interned as an ML engineer at Microsoft Research Asia, ByteDance, and Shanghai AI Laboratory.
