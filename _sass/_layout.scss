@@ -180,6 +180,21 @@ footer .container {
     color: var(--global-heading-color);
   }
 
+  .research-card-title-link {
+    font-size: var(--fs-sm);
+    font-weight: var(--fw-medium);
+    white-space: nowrap;
+
+    a {
+      color: var(--research-card-accent);
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
   .research-card-authors {
     margin: 0 0 0.25rem;
     font-size: var(--fs-sm);
