@@ -272,7 +272,6 @@ footer .container {
 .research-card .research-card-title-link {
   font-size: var(--fs-sm);
   font-weight: var(--fw-medium);
-  white-space: nowrap;
 }
 .research-card .research-card-title-link a {
   color: var(--research-card-accent);
