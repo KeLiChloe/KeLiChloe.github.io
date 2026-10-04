@@ -33,7 +33,7 @@ My current research sits at the intersection of AI, management, and decision sci
 <p class="research-stream-note"><strong>Research Stream 2: Human–AI Collaboration in Science.</strong> I study how human researchers and AI systems can collaborate productively in the broader scientific process.</p>
 
 <div class="research-card">
-  <h3 class="research-card-title">Artificial intelligences and human scientists exhibit complementary strengths in theory building <span class="research-card-title-link">· <a href="https://arxiv.org/abs/2609.32562" target="_blank" rel="noopener noreferrer">Paper link</a></span></h3>
+  <h3 class="research-card-title">Artificial intelligences and human scientists exhibit complementary strengths in theory building <span class="research-card-title-link">· <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7528559" target="_blank" rel="noopener noreferrer">Read the working paper</a></span></h3>
   <p class="research-card-authors">Joint work with Philip Parker (INSEAD), Phanish Puranam (INSEAD), Eric Luis Uhlmann (INSEAD), Spyros Zoumpoulis (INSEAD), and a large theory building team</p>
 </div>
 
