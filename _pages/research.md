@@ -8,47 +8,49 @@ nav_order: 1
 
 <!-- _pages/research.md -->
 
-My current research sits at the intersection of AI, management, and decision sciences. I pursue two complementary streams, united by a broader agenda: building computationally rigorous, decision-relevant, and scientifically grounded tools in **Human + AI + Decision Science**.
+My research lies at the intersection of artificial intelligence, machine learning, optimization, and decision sciences. I pursue two complementary research streams. For a complete publication list, see my [Google Scholar profile](https://scholar.google.com/citations?user=A_3_zUoAAAAJ).
 
-<p class="research-stream-note"><strong>Research Stream 1: Decision-Aware Learning.</strong> I study how firms can design learning systems that optimize not only predictive accuracy, but also the quality of the downstream decisions they support.</p>
+<div class="research-stream">
+  <h2>AI for Better Science</h2>
+  <p class="research-stream-lead"><span class="research-stream-question">How can artificial intelligence complement human scientists in generating, evaluating, and refining scientific knowledge?</span></p>
 
-<div class="research-card has-slides">
-  <h3 class="research-card-title">Decision-Aware Segmentation</h3>
-  <p class="research-card-authors">Joint work with Sandeep Chandukala (SMU), Ernst Osinga (SMU), and Spyros Zoumpoulis (INSEAD)</p>
-  <p class="research-card-status">Working Paper</p>
-  <div class="research-card-grid">
-    <div class="research-card-slides-col">
-      <p class="research-card-slides-caption">Recent presentation slides: MSOM 2026</p>
-      <a class="research-card-slides" href="{{ '/assets/pdf/MSOM_2026.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
-        <img class="research-card-slides-preview" src="{{ '/assets/img/research/das-msom-2026-preview.png' | relative_url }}" alt="Decision-Aware Segmentation presentation preview">
-      </a>
-    </div>
-    <div class="research-card-body">
-      <p class="research-card-abstract-label">Abstract</p>
-      <p class="research-card-abstract">Customer segmentation is everywhere in marketing. However, widely used segmentation methods are descriptive rather than prescriptive: they partition customers by optimizing statistical criteria (e.g., minimizing within-cluster distances), without regard to the firm’s downstream targeting objective. As a result, segments that are statistically well-formed may induce suboptimal targeting policies. This paper asks a fundamental question: if the goal of segmentation is to decide who should receive which action, can we learn the segments with that decision in mind? We develop Decision-Aware Segmentation (DAS), a framework that learns customer segments by optimizing the value of the targeting policies they induce. More broadly, the paper positions segmentation as part of the decision problem itself, offering a middle ground between traditional descriptive clustering and fully individualized targeting.</p>
-    </div>
-  </div>
+  <ol class="research-bib">
+    <li>
+      <strong><u>Ke Li</u></strong>, Spyros I. Zoumpoulis, Phanish Puranam, Philip M. Parker, &hellip;, and Eric Luis Uhlmann.
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7528559" target="_blank" rel="noopener noreferrer">Artificial Intelligences and Human Scientists Exhibit Complementary Strengths in Theory Building</a>.
+      <em>Preprint</em>, 2026.
+    </li>
+  </ol>
 </div>
 
-<p class="research-stream-note"><strong>Research Stream 2: Human–AI Collaboration in Science.</strong> I study how human researchers and AI systems can collaborate productively in the broader scientific process.</p>
+<div class="research-stream">
+  <h2>AI for Better Decisions</h2>
+  <p class="research-stream-lead"><span class="research-stream-question">How can we design machine learning systems that optimize the decisions they support, rather than predictive accuracy alone?</span></p>
 
-<div class="research-card">
-  <h3 class="research-card-title">Artificial intelligences and human scientists exhibit complementary strengths in theory building <span class="research-card-title-link">· <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7528559" target="_blank" rel="noopener noreferrer">Read the working paper</a></span></h3>
-  <p class="research-card-authors">Joint work with Philip Parker (INSEAD), Phanish Puranam (INSEAD), Eric Luis Uhlmann (INSEAD), Spyros Zoumpoulis (INSEAD), and a large theory building team</p>
+  <ol class="research-bib research-bib-continue">
+    <li>
+      <strong>Decision-Aware Segmentation</strong>.
+      <em>Joint work with</em> Sandeep Chandukala, Ernst Osinga, and Spyros Zoumpoulis.
+      <em>Working paper; draft available upon request.</em>
+      <p class="research-paper-meta"><strong class="research-paper-award">Best Paper Award</strong>, Singapore Rising Scholars Conference (SMU), 2026.</p>
+      <div class="research-paper-folds">
+        <details class="research-paper-fold">
+          <summary>Presentation slides · MSOM 2026</summary>
+          <a class="research-paper-slides" href="{{ '/assets/pdf/MSOM_2026.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+            <img class="research-paper-slides-preview" src="{{ '/assets/img/research/das-msom-2026-preview.png' | relative_url }}" alt="Decision-Aware Segmentation presentation preview">
+          </a>
+        </details>
+      </div>
+    </li>
+    <li>
+      Bohan Zhou, <strong><u>Ke Li</u></strong>, Jiechuan Jiang, and Zongqing Lu.
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/bb203e938836544655996d1bb94a0fd7-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Learning from Visual Observation via Offline Pretrained State-to-Go Transformer</a>.
+      <em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2023.
+    </li>
+    <li>
+      Jing Dong, <strong><u>Ke Li</u></strong>, Shuai Li, and Baoxiang Wang.
+      <a href="https://doi.org/10.1145/3488560.3498413" target="_blank" rel="noopener noreferrer">Combinatorial Bandits under Strategic Manipulations</a>.
+      <em>ACM International Conference on Web Search and Data Mining (WSDM)</em>, 2022.
+    </li>
+  </ol>
 </div>
-
-## Publications
-
-See [Google Scholar](https://scholar.google.com/citations?user=A_3_zUoAAAAJ) for recent updates.
-
-1. **Learning from Visual Observation via Offline Pretrained State-to-Go Transformer** · [Paper](https://arxiv.org/abs/2306.12860) · [Website](https://sites.google.com/view/stgtransformer) · [Code](https://github.com/zhoubohan0/STG-Transformer/tree/master)  
-   Bohan Zhou, Ke Li, Jiechuan Jiang, and Zongqing Lu.  
-   *Advances in Neural Information Processing Systems (NeurIPS)*, 2023.
-
-2. **Combinatorial Bandits under Strategic Manipulations** · [Paper](https://arxiv.org/abs/2102.12722)  
-   Jing Dong, Ke Li, Shuai Li, and Baoxiang Wang.  
-   *ACM International Conference on Web Search and Data Mining (WSDM)*, 2022.
-
-3. **EduChain: A Blockchain-Based Education Data Management System**  
-   Yihan Liu, Ke Li, Zihao Huang, Bowen Li, Guiyan Wang, and Wei Cai.  
-   *CCF China Blockchain Conference (CBCC)*, 2020.

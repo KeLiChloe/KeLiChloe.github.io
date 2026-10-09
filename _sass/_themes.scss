@@ -105,21 +105,16 @@ html[data-theme='dark'] {
     display: block;
   }
 
-  .research-card {
-    --research-card-accent: #d48aa0;
-    --research-card-accent-soft: rgba(212, 138, 160, 0.12);
+  .research-stream {
+    --research-accent: #d48aa0;
+    --research-accent-soft: rgba(212, 138, 160, 0.12);
+  }
 
-    .research-card-grid,
-    &:not(.has-slides) .research-card-body {
-      border-top-color: rgba(212, 138, 160, 0.28);
-    }
+  .research-paper-slides {
+    background-color: rgba(255, 255, 255, 0.04);
 
-    .research-card-slides {
-      background-color: rgba(255, 255, 255, 0.04);
-
-      &:hover {
-        box-shadow: 0 8px 22px rgba(0, 0, 0, 0.28);
-      }
+    &:hover {
+      box-shadow: 0 8px 22px rgba(0, 0, 0, 0.28);
     }
   }
 }
