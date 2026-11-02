@@ -25,7 +25,6 @@ My research lies at the intersection of artificial intelligence, machine learnin
 
 <div class="research-stream">
   <h2>AI for Better Decisions</h2>
-  <p class="research-stream-lead"><span class="research-stream-question">How can we design machine learning systems that optimize the decisions they support, rather than predictive accuracy alone?</span></p>
 
   <ol class="research-bib research-bib-continue">
     <li>
