@@ -12,7 +12,7 @@ nav_order: 7
 - My favorite Chinese series: Empresses in the Palace (后宫甄嬛传), and Wu lin wai zhuan (武林外传)
 - This is my dog, Mishka (meaning “little bear” 🐻).
 
-  <img src="{{ '/assets/img/Mishka-no-arrows.png' | relative_url }}" alt="My dog, Mishka" style="max-width: 360px; width: 100%; height: auto;" loading="lazy">
+  <img src="{{ '/assets/img/Mishka.jpg' | relative_url }}" alt="My dog, Mishka" style="max-width: 360px; width: 100%; height: auto;" loading="lazy">
 
 <!-- - I am SHERLOCKED! -->
 
