@@ -34,8 +34,8 @@ My research lies at the intersection of artificial intelligence, machine learnin
       <p class="research-paper-meta"><strong class="research-paper-award">Best Paper Award</strong>, Singapore Rising Scholars Conference (SMU), 2026.</p>
       <div class="research-paper-folds">
         <details class="research-paper-fold">
-          <summary>Presentation slides · MSOM 2026</summary>
-          <a class="research-paper-slides" href="{{ '/assets/pdf/MSOM_2026.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+          <summary>Recent presentation slides · INFORMS 2026</summary>
+          <a class="research-paper-slides" href="{{ '/assets/pdf/INFORMS_2026.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
             <img class="research-paper-slides-preview" src="{{ '/assets/img/research/das-msom-2026-preview.png' | relative_url }}" alt="Decision-Aware Segmentation presentation preview">
           </a>
         </details>
